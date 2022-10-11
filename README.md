@@ -1,4 +1,9 @@
 # Acompanhamento de Cursos DIO
 Repositório para agrupar o que eu for desenvolvendo durante os cursos na DIO 📚
 
-## Aqui vão os links de outros projetos feitos na DIO bem como tudo que eu achar pertinente.
+## Projetos DIO.
+
+* [Análise de dados com python e pandas](https://github.com/Uciolli/dio-analise-python-pandas)
+
+## Coisas Legais
+Aqui teremos materias, links úteis, notas, documentação etc.
